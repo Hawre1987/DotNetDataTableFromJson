@@ -7,12 +7,15 @@ namespace DataTableFromJson
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
-            var filePath = new StreamReader("../../../items.json");
-            JObject jsonObject = JObject.Parse(filePath.ReadToEnd());
-            var items = JsonConvert.SerializeObject(jsonObject["items"]);
-            DataTable tester = (DataTable)JsonConvert.DeserializeObject(items, (typeof(DataTable)));
+            using(HttpClient client = new())
+            {
+                var response = await client.GetStringAsync("https://crmscf.vidyasystems.com/api/gen/items.php");
+                JObject jsonObject = JObject.Parse(response);
+                var items = JsonConvert.SerializeObject(jsonObject["items"]);
+                DataTable tester = (DataTable)JsonConvert.DeserializeObject(items, (typeof(DataTable)));
+            }
             Console.WriteLine("Hello, World!");
         }
     }
