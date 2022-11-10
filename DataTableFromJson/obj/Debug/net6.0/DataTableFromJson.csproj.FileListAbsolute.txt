@@ -1,0 +1,17 @@
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.csproj.AssemblyReference.cache
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.AssemblyInfoInputs.cache
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.AssemblyInfo.cs
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.csproj.CoreCompileInputs.cache
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\bin\Debug\net6.0\DataTableFromJson.exe
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\bin\Debug\net6.0\DataTableFromJson.deps.json
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\bin\Debug\net6.0\DataTableFromJson.runtimeconfig.json
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\bin\Debug\net6.0\DataTableFromJson.dll
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\bin\Debug\net6.0\DataTableFromJson.pdb
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.dll
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\refint\DataTableFromJson.dll
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.pdb
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.genruntimeconfig.cache
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\ref\DataTableFromJson.dll
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\VS19 Projects\MiscellaneousTestSolution\DataTableFromJson\obj\Debug\net6.0\DataTableFromJson.csproj.CopyComplete

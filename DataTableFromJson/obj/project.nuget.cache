@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryIKKjDmWGWgsOw7CfPNgEezyT96jcVtN4dQCOFnyjJz542ArKTxf0KtDEmOMU9iMQBNA5mmL4PGewM3A5yTcA==",
+  "success": true,
+  "projectFilePath": "E:\\VS19 Projects\\MiscellaneousTestSolution\\DataTableFromJson\\DataTableFromJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INTEL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
